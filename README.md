@@ -29,3 +29,4 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="MySql" src="https://shields.io/badge/MySQL-blue?logo=mysql&style=plastic&logoColor=white&labelColor=blue" />
   <img alt="GraphQl" src="https://img.shields.io/badge/-GraphQl-purple?style=flat-square&logo=GraphQl&logoColor=white" />
+  <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-red?style=flat-square&logo=Laravel&logoColor=white" />
